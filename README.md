@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in Web Dev, DevOps / Cloud, Artificial Intelligence, Machine Learning and Data science. 
  
-- 🌱 I’m currently learning DSA, Machine learning and AI 
+- 🌱 I’m currently learning DSA (using java) , Machine learning and Data science.  
 -
 
 <!---
