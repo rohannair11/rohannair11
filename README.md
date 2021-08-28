@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohannair11
 - 
-- 👀 I’m interested in Web Dev, DevOps and Cloud Native Tech, Artificial Intelligence. 
+- 👀 I’m interested in Artificial Intelligence, DevOps and Cloud Native Tech, 
  
 - 🌱 I’m currently learning DSA (using java).  
 -
