@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohannair11
 - 
-- 👀 I’m interested in Artificial Intelligence, DevOps and Web Dev. 
+- 👀 I’m interested in a lot of stuff 
  
 - 🌱 I’m currently learning DSA (using java).  
 -
