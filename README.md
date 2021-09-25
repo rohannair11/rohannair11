@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @rohannair11
-- 
-- 👀 I’m interested in a lot of stuff 
- 
-- 🌱 I’m currently learning DSA (using java).  
--
+#**Hi, I'm Rohan**
+An undergrad Comp Sci student from Pune, India. 
 
 <!---
 rohannair11/rohannair11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
