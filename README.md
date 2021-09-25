@@ -1,4 +1,4 @@
-#**Hi, I'm Rohan**
+
 An undergrad Comp Sci student from Pune, India. 
 
 <!---
