@@ -1,6 +1,8 @@
 
 An undergrad Comp Sci student from Pune, India. 
-Interested in ML, DL, NLP, CV and their various applications in multiple fields. 
+Interested in Backend Dev, ML, DL, NLP, CV and their various applications in multiple fields. 
+
+Tech Stack :- HTML, Css (with addition to :- tailwind), javaScript (with addition to :- nodejs), C, Java, Python. 
 
 <!---
 rohannair11/rohannair11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
