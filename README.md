@@ -1,6 +1,6 @@
 
 An undergrad Comp Sci student from Pune, India. 
-Interested in Backend Dev, ML, DL, NLP, CV and their various applications in multiple fields. 
+
 
 Tech Stack :- HTML, CSS (with addition to :- tailwind), javaScript (with addition to :- reactjs, nodejs), C, Java, Python (with addtion to :- Numpy, Matplotlib / Seaborn, Pandas, Scikit-learn, Keras / Tensorflow). 
 
