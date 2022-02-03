@@ -1,8 +1,7 @@
 
 An undergrad Comp Sci student from Pune, India. 
 
-
-Tech Stack :- HTML, CSS (with addition to :- tailwind), javaScript (with addition to :- reactjs, nodejs), C, Java, Python (with addtion to :- Numpy, Matplotlib / Seaborn, Pandas, Scikit-learn, Keras / Tensorflow). 
+Dev || DevOps 
 
 <!---
 rohannair11/rohannair11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
