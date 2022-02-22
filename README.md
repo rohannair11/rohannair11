@@ -1,5 +1,5 @@
 
-An undergrad Comp Sci student from Pune, India. 
+An undergrad Comp Sci student from India. 
 
 Dev || DevOps 
 
