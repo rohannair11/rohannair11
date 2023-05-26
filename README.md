@@ -2,7 +2,7 @@
 An undergrad Comp Sci student from India. 
 
 Learning and exploring various tech domains. 
-Current interests -> Frontend, DevOps and Deep Learning. 
+Currently learning -> Full Stack Engineering and DevOps. 
 
 <!---
 rohannair11/rohannair11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
