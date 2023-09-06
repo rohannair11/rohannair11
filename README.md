@@ -1,8 +1,8 @@
 
-An undergrad Comp Sci student from India. 
+an undergrad Comp Sci student from India. 
 
-Learning and exploring various tech domains. 
-Currently learning -> Full Stack Engineering and DevOps. 
+learning and exploring various tech domains. 
+currently diving deep into backend engineering and DevOps. 
 
 <!---
 rohannair11/rohannair11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
