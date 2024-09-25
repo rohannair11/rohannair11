@@ -1,6 +1,5 @@
 
-studying computer science and business systems from pune uni. 
-learning full stack engineering and devops. 
+devops engineer at Data Axle 
 
 feel free to reach out
 
