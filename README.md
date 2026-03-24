@@ -1,7 +1,5 @@
 
-devops engineer at Data Axle 
-
-feel free to reach out
+DevOps Engineer
 
 <!---
 rohannair11/rohannair11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
